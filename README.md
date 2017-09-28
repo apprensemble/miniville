@@ -62,3 +62,20 @@ C'est pour cela que je donne une piste pour commencer, je n'impose rien.
 1. ajout feu piéton
 1. gestion d'interruption
 
+## Materiel nécessaire pour la maquette V1 big CAR
+
+  Le principe est de partir d'une grande voiture simple afin d'explorer les possibilités et mieux comprendre le fonctionnement des voitures finales. Cette voiture sera monté sur plaque d'essai. J'ai pensé au départ au robot d2-1 https://www.banggood.com/D2-1-Intelligent-Tracking-Car-Kit-3V-Small-Smart-Car-DIY-Kit-p-1084749.html mais finalement j'ai trouvé un supermodel dans le livre "je construis mon premier robot mobile" de Frédéric Giamarchi. Cette réalisation est un dérivé de son robot. 
+
+1. chassis
+  * balsa 100x2mmx1M https://www.monsieurmaquettes.com/332-balsa#
+  * roue + engrenage + moteur x2 http://www.ebay.fr/itm/282226105183?var=581246648352
+  * photoresistance x2
+  * potentiometre 47K
+  * fils, plaque d'essai, led, transistor, condensateur, piles ...
+
+  A suivre...
+  
+  
+## TODO
+
+1. réorganiser cette page
