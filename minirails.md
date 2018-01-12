@@ -25,4 +25,9 @@ Minirail est un chemin de fer(PLA) connecté contenant :
 * des points de recharges
 
 ## Pourquoi
-Ce projet me semble un bon début car j'ai un peu d'experience dans la modelisation/impression 3D et une vision plus claire des éléments necessaires à la réalisation que pour miniville.
+Ce projet me semble un bon début car j'ai un peu d'experience dans la modelisation/impression 3D et une vision plus claire des éléments necessaires à la réalisation que pour miniville. Soyons franc cela me permet de ne pas trop m'éloigner de ma zone de confort.
+
+# Méthode de travail
+Il y a déjà 3 participants(sans me compter) qui ont contribué au projet minirails. Cela s'est fait naturellement. En apportant des idées, des objections, des exemples concrets d'application. 
+Travailler tous ensemble sur les points cruciaux et se repartir les taches répétitive dans un premier temps et nous modifierons la structure si besoin de façon collégiale.
+
