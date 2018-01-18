@@ -31,3 +31,24 @@ Ce projet me semble un bon début car j'ai un peu d'experience dans la modelisat
 Il y a déjà 3 participants(sans me compter) qui ont contribué au projet minirails. Cela s'est fait naturellement. En apportant des idées, des objections, des exemples concrets d'application. 
 Travailler tous ensemble sur les points cruciaux et se repartir les taches répétitive dans un premier temps et nous modifierons la structure si besoin de façon collégiale.
 
+# Etapes
+
+## Conception matériel
+
+* jonctions
+* rails droits
+* rails courbes
+* aiguillage
+* chassis fonctionnel dans les deux directions
+
+## Conception électronique
+
+* conception module d'adressage attiny pour réseau i2c(exemple aiguillage, signalisation, ...).
+
+* Gestion du réseau i2c et de l'interface de controle via esp32
+* Conception véhicule 
+** camera pilotable pour le streaming
+** commandes : avant/arriere/start/stop
+
+
+
